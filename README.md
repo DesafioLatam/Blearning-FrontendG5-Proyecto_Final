@@ -65,9 +65,8 @@ El proyecto debe considerar la implementación de los siguientes items:
 
 * Dificultad
 
-## Pauta de corrección
-
-La pauta de corrección, asi como la ponderación de cada items se encuentra en el siguiente vinculo.
+## Pauta de corrección (pendiente)
+La pauta de corrección, asi como la ponderación de cada items se encuentra en el siguiente vinculo 
 
 ## Entregable
 * Fecha de entrega: En confirmación.
