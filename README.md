@@ -69,11 +69,12 @@ El proyecto debe considerar la implementación de los siguientes items:
 * Dificultad
 
 ## Pauta de corrección (pendiente)
-La pauta de corrección, asi como la ponderación de cada items se encuentra en el siguiente (vínculo)[href="#"] 
+La pauta de corrección, asi como la ponderación de cada items se encuentra en el siguiente [vínculo](#)
 
 ## Entregable
-* Fecha de entrega: 29 Septiembre 2017.
 * Se debe subir el link del repositorio a la plataforma empieza. 
+* Fecha de entrega proyecto: 29 de Septiembre 2017.
+* Fecha de entrega evaluación: 6 de Octubre 2017.
 
 
 <hr>
